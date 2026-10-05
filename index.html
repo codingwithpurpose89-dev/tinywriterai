@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tiny Writer AI — Downloads</title>
+  <meta name="description" content="Download Tiny Writer AI: rephrase or explain selected text in any app, right where you selected it.">
+  <link rel="canonical" href="https://downloads.tinywriterai.com/">
+  <style>
+    /* Same palette as tinywriterai.com (tiny-writer-ai-web/src/styles/tokens.css), kept inline
+       so this page stays a single static file with nothing to build. */
+    :root {
+      --ink: #14161f;
+      --paper: #fbfaf7;
+      --muted: color-mix(in srgb, var(--ink) 60%, var(--paper));
+      --hairline: color-mix(in srgb, var(--ink) 15%, var(--paper));
+      --surface: #ffffff;
+      --accent: #5b63ff;
+      --btn-bg: #4a44d6;
+      --serif: "Newsreader", "Iowan Old Style", Georgia, "Times New Roman", serif;
+      --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      --mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --ink: #e9e7e1;
+        --paper: #101119;
+        --muted: color-mix(in srgb, var(--ink) 56%, var(--paper));
+        --hairline: color-mix(in srgb, var(--ink) 20%, var(--paper));
+        --surface: #1b1c28;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font: 1.0625rem/1.6 var(--sans);
+      -webkit-font-smoothing: antialiased;
+    }
+    main {
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: clamp(3rem, 10vw, 6rem) 1rem 3rem;
+    }
+    h1 {
+      font: 600 clamp(2rem, 6vw, 2.75rem)/1.15 var(--serif);
+      letter-spacing: -0.01em;
+      margin: 0 0 1rem;
+    }
+    h2 {
+      font: 600 1.25rem/1.3 var(--serif);
+      margin: 2.75rem 0 0.75rem;
+    }
+    p { margin: 0 0 1rem; }
+    a { color: var(--accent); }
+    .lead { font-size: 1.15rem; }
+    .muted { color: var(--muted); font-size: 0.95rem; }
+    .btn {
+      display: inline-block;
+      background: var(--btn-bg);
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+      padding: 0.75rem 1.25rem;
+      border-radius: 7px;
+      margin: 0.5rem 0 0.75rem;
+    }
+    .btn:hover { filter: brightness(1.1); }
+    kbd {
+      font: 0.85em var(--mono);
+      background: var(--surface);
+      border: 1px solid var(--hairline);
+      border-bottom-width: 2px;
+      border-radius: 4px;
+      padding: 0.1em 0.4em;
+      white-space: nowrap;
+    }
+    ul { padding-left: 1.25rem; margin: 0 0 1rem; }
+    li { margin-bottom: 0.5rem; }
+    footer {
+      margin-top: 3.5rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid var(--hairline);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Tiny Writer AI</h1>
+    <p class="lead">
+      Rephrase or explain text in any app (Slack, a pull request, an email) right where you
+      selected it. No tab to switch to, no window to click out of.
+    </p>
+
+    <a class="btn" href="releases/macos/Tiny%20Writer%20AI.dmg">Download for Mac</a>
+    <p class="muted">
+      macOS 12 or later, Apple silicon and Intel. Windows version coming soon. Free while in beta.
+    </p>
+
+    <h2>How it works</h2>
+    <ul>
+      <li>
+        <strong>Rephrase</strong>: select some text and press <kbd>⌘ ⇧ R</kbd>. The rewritten
+        version replaces your selection when you accept it.
+      </li>
+      <li>
+        <strong>Explain</strong>: select something you don't follow and press <kbd>⌘ ⇧ E</kbd>.
+        You get a short explanation you can copy, and your text stays untouched.
+      </li>
+    </ul>
+    <p>It keeps the language you wrote in, and it updates itself when a new version ships.</p>
+
+    <h2>About this page</h2>
+    <p class="muted">
+      This site hosts the app's installers and update feeds. For more about the product, visit
+      <a href="https://tinywriterai.com">tinywriterai.com</a>.
+    </p>
+
+    <footer class="muted">
+      Questions? <a href="mailto:info@tinywriterai.com">info@tinywriterai.com</a>
+    </footer>
+  </main>
+</body>
+</html>
