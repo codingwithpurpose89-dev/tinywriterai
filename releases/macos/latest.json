@@ -1,15 +1,15 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "notes": "",
-  "pub_date": "2026-10-05T22:09:39.686Z",
+  "pub_date": "2026-10-08T20:57:11.601Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc2RLL1VXZEwxR25mVlN3L0U2NGpnNnVxaGxnVURPeWdJaFJpZDNJaGorVmpEQTFSNVltYmtERUJBazd0dHNNWGllUG5OSkdFZHpMWkFGVEFQY2xMcEhkVFFoUEFMOWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjM3ODE5CWZpbGU6VGlueSBXcml0ZXIgQUkuYXBwLnRhci5negp2akxOdGhKeGNhVVNCWW83cnpzQVY4K0IwdHJveS94ak4rRHhJaWRLSmZKY0ZEY1QzV2ppNTErdjZyR25EU1JIMXJIK2tqeDIrK0RLVHAxbGVwb0pEUT09Cg==",
-      "url": "https://downloads.tinywriterai.com/releases/macos/v0.2.0/tiny-writer-ai_0.2.0_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc2RLL1VXZEwxR2tESndmMzVNcDlPSG5lbWs3L0JnY0RuYWk1K05KMXByM2w4aUdWLzNuS0Q3aGw5RUl4NmxJZU4zN3RvUFpJQitMSFBlc0xqQU9DL0ViUkZmV2U1Y3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDkyNzg5CWZpbGU6VGlueSBXcml0ZXIgQUkuYXBwLnRhci5negpxaC9yY1hrUW9lLzg4cFpnT2ZrLy9taGMxLzZ4eXpuZWM4YVMwTEMraGhyaEk0NG56V1lWMHZ5VzJXOU5taS93V2dYWVNlKzlHV3piVGY5ZzFnWFBBZz09Cg==",
+      "url": "https://downloads.tinywriterai.com/releases/macos/v0.3.0/tiny-writer-ai_0.3.0_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc2RLL1VXZEwxR25mVlN3L0U2NGpnNnVxaGxnVURPeWdJaFJpZDNJaGorVmpEQTFSNVltYmtERUJBazd0dHNNWGllUG5OSkdFZHpMWkFGVEFQY2xMcEhkVFFoUEFMOWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjM3ODE5CWZpbGU6VGlueSBXcml0ZXIgQUkuYXBwLnRhci5negp2akxOdGhKeGNhVVNCWW83cnpzQVY4K0IwdHJveS94ak4rRHhJaWRLSmZKY0ZEY1QzV2ppNTErdjZyR25EU1JIMXJIK2tqeDIrK0RLVHAxbGVwb0pEUT09Cg==",
-      "url": "https://downloads.tinywriterai.com/releases/macos/v0.2.0/tiny-writer-ai_0.2.0_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc2RLL1VXZEwxR2tESndmMzVNcDlPSG5lbWs3L0JnY0RuYWk1K05KMXByM2w4aUdWLzNuS0Q3aGw5RUl4NmxJZU4zN3RvUFpJQitMSFBlc0xqQU9DL0ViUkZmV2U1Y3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDkyNzg5CWZpbGU6VGlueSBXcml0ZXIgQUkuYXBwLnRhci5negpxaC9yY1hrUW9lLzg4cFpnT2ZrLy9taGMxLzZ4eXpuZWM4YVMwTEMraGhyaEk0NG56V1lWMHZ5VzJXOU5taS93V2dYWVNlKzlHV3piVGY5ZzFnWFBBZz09Cg==",
+      "url": "https://downloads.tinywriterai.com/releases/macos/v0.3.0/tiny-writer-ai_0.3.0_universal.app.tar.gz"
     }
   }
 }
